@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "curses.h": "c",
+        "stdint.h": "c",
+        "assert.h": "c",
+        "curspriv.h": "c",
+        "windows.h": "c",
+        "winuser.h": "c",
+        "wincon.h": "c",
+        "winapifamily.h": "c",
+        "curses_addon.h": "c",
+        "qobject": "cpp",
+        "signal.h": "c",
+        "chrono": "c",
+        "system_error": "c",
+        "xlocale": "c",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "xloctime": "cpp",
+        "qwaitcondition": "cpp",
+        "qdebug": "cpp",
+        "qthread": "cpp",
+        "charconv": "c",
+        "atomic": "c",
+        "cstring": "c",
+        "vector": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "format": "c"
+    }
+}
